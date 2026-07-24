@@ -272,4 +272,4 @@ Use [DistroSea](https://distrosea.com) to test-drive your match in your browser,
 
 ---
 *Last updated: July 24, 2026*
-*Created with ❤️ by [BarbaBot](https://github.com/CtrlAltBeard))*
+*Created with ❤️ by [CtrlAltBeard](https://github.com/CtrlAltBeard))*
