@@ -135,7 +135,7 @@ Do you like clicking things with a mouse?
    → Yes → Try a **Tiling WM** (i3, Sway, Hyprland).
    → No → Try a **Stacking WM** (Openbox, Fluxbox).
 ```
-
+- [Desktop Environment & Window Manager Matchmaker Quiz](quizzes/desktop-env-wm-quiz.md) – *Discover your perfect DE/WM match!*
 ---
 
 ## **💡 Practical Advice: Stop Overthinking It**
