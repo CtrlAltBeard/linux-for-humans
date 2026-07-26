@@ -17,8 +17,12 @@ Here, you’ll find:
 ---
 
 ## **🗂️ Table of Contents**
-### **🎲 Quiz**
+### **📚 Guides**
+- [Desktop Environments vs. Window Managers: The Ultimate Guide](guides/desktop-environments-and-window-managers.md) – *A deep dive into DEs, WMs, and how to pick the right one for you.*
+
+### **🎲 Quizzes**
 - [Linux Distro Matchmaker: A 90s Magazine-Style Quiz](quizzes/distro-matchmaker.md) – *Find your Linux soulmate!*
+- [Desktop Environment & Window Manager Matchmaker Quiz](quizzes/desktop-env-wm-quiz.md) – *Discover your perfect DE/WM match!*
 
 ---
 
